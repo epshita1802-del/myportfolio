@@ -10,7 +10,7 @@ const PROFILE = {
   email: 'epshita2102@gmail.com',
   github: 'https://github.com/epshita1802-del',
   linkedin: 'https://linkedin.com/in/epshita-4b1958342',
-  resume: '/epshitaresumefrontend.pdf'' // Add your resume PDF to the public folder
+  resume: '/epshitaresumefrontend.pdf' // Add your resume PDF to the public folder
 };
 
 // Opens Gmail's compose window in a new tab with To, Subject and Body pre-filled
